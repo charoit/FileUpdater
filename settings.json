@@ -1,0 +1,22 @@
+{
+  "root": "/home/wolfgan/Updater/",
+  "redis": {
+    "db": 0,
+    "addr": "localhost:6379",
+    "password": ""
+  },
+  "paths": [
+    {
+      "name": "Cashbox",
+      "path": "cashbox"
+    },
+    {
+      "name": "Game terminal",
+      "path": "terminal"
+    },
+    {
+      "name": "Browser cache",
+      "path": "WWW"
+    }
+  ]
+}
